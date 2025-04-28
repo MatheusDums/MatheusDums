@@ -33,6 +33,3 @@ Estou atualmente cursando Sistemas de Informação pela Universidade do Estado d
 
 ---
 
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
