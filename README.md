@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **MatheusDums/MatheusDums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 💜 Olá, meu nome é Matheus Kauan Dums!
+## Olá, meu nome é Matheus Kauan Dums!
 
 Estou atualmente cursando Sistemas de Informação pela Universidade do Estado de Santa Catarina (UDESC) e estudando Desenvolvimento Web pela OneBitCode, onde estou com foco em Fullstack Javascript.
 
