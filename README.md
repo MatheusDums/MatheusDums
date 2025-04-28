@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">📚 Estudo programação desde 2024, com foco em Desenvolvimento Web e desenvolver minhas habilidades.<br>🎯 Objetivos: Meus objetivos principais atualmente são me especializar na área de Desenvolvimento Web, conseguir a minha primeira experiência profissional e terminar a minha faculdade.<br>🤦🏼‍♂️ Não sou uma pessoa muito ativa em meu GitHub, mas pretendo voltar a utilizar mais esta rede social.</p>
+<p align="left">📚 Estudo programação desde 2024, com foco em Desenvolvimento Web e desenvolver minhas habilidades.<br>🎯 Meus objetivos principais atualmente são me especializar na área de Desenvolvimento Web, conseguir a minha primeira experiência profissional e terminar a minha faculdade.<br>🤦🏼‍♂️ Não sou uma pessoa muito ativa em meu GitHub, mas pretendo voltar a utilizar mais esta rede social.</p>
 
 ###
 
