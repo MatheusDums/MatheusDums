@@ -1,17 +1,3 @@
-<!--
-**MatheusDums/MatheusDums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="left">Olá 👋 Seja Bem-Vindo</h1>
 
 ###
@@ -24,7 +10,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">📚 Estudo programação desde 2024, com foco em Desenvolvimento Web e desenvolver minhas habilidades.<br>🎯 Meus objetivos principais atualmente são me especializar na área de Desenvolvimento Web, conseguir a minha primeira experiência profissional e terminar a minha faculdade.<br>🤦🏼‍♂️ Não sou uma pessoa muito ativa em meu GitHub, mas pretendo voltar a utilizar mais esta rede social.</p>
+<p align="left">📚 Estudo programação desde 2023, com foco em Desenvolvimento Web e desenvolver minhas habilidades.<br>🎯 Objetivos: Meus objetivos principais atualmente são me especializar na área de Desenvolvimento Web, conseguir a minha primeira experiência profissional e terminar a minha faculdade.<br>🤦🏼‍♂️ Não sou uma pessoa muito ativa em meu GitHub, mas pretendo voltar a utilizar mais esta rede social.<br>🤖 Ambicioso sobre Inteligência Artificial, sempre buscando saber mais e entender como funcionam.  Aprendendo o básico sobre automações e Low-Code.</p>
 
 ###
 
@@ -66,6 +52,12 @@ Here are some ideas to get you started:
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusDums&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusDums&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatheusDums&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusDums&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
