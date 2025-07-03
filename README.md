@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, me chamo Matheus Kauan Dums, tenho 20 anos e atualmente eu estou cursando Sistemas de Informação pela UDESC (Universidade do Estado de Santa Catarina) e Desenvolvimento Web pela OneBitCode, com foco em Javascript (Fullstack, mas atualmente com foco em Front-End) . É um prazer tê-lo em me perfil. 💻📚</p>
+<p align="left">Olá, me chamo Matheus Kauan Dums, tenho 21 anos e atualmente eu estou cursando Sistemas de Informação pela UDESC (Universidade do Estado de Santa Catarina) e Desenvolvimento Web pela OneBitCode, com foco em Javascript (Fullstack, mas atualmente com foco em Front-End) . É um prazer tê-lo em me perfil. 💻📚</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estudo programação desde 2023, com foco em Desenvolvimento Web e desenvolver minhas habilidades.<br>🎯 Meus objetivos principais atualmente são me especializar na área de Desenvolvimento Web, conseguir a minha primeira experiência profissional e terminar a minha faculdade.<br>🤦🏼‍♂️ Não sou uma pessoa muito ativa em meu GitHub, mas pretendo voltar a utilizar mais esta rede social.<br>🤖 Ambicioso sobre Inteligência Artificial, sempre buscando saber mais e entender como funcionam.  Aprendendo o básico sobre automações e Low-Code.</p>
+<p align="left">📚 Estudo programação desde 2023, com foco em Desenvolvimento Web e desenvolver minhas habilidades.<br>🎯 Meus objetivos principais atualmente são me especializar na área de Desenvolvimento Web e terminar a minha faculdade.<br>🤦🏼‍♂️ Não sou uma pessoa muito ativa em meu GitHub, mas pretendo voltar a utilizar mais esta rede social.<br>🤖 Ambicioso sobre Inteligência Artificial, sempre buscando saber mais e entender como funcionam.  Aprendendo o básico sobre automações e Low-Code.</p>
 
 ###
 
