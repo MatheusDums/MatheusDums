@@ -1,22 +1,16 @@
 <h1 align="left">Olá 👋 Seja Bem-Vindo</h1>
 
-
 ###
 
-<p align="left">Olá, me chamo Matheus Kauan Dums, tenho 21 anos e atualmente eu estou cursando Sistemas de Informação pela UDESC (Universidade do Estado de Santa Catarina) e Desenvolvimento Web pela OneBitCode, com foco em Javascript (Fullstack, mas atualmente com foco em Front-End) . É um prazer tê-lo em me perfil. 💻📚</p>
+<p align="left">Olá, me chamo Matheus Kauan Dums, tenho 21 anos e atualmente eu estou estagiando na área de TI na empresa Buddemeyer S/A e cursando Sistemas de Informação pela UDESC (Universidade do Estado de Santa Catarina) e Desenvolvimento Web pela OneBitCode, com foco em Javascript (Fullstack, mas atualmente com foco em Front-End) . É um prazer tê-lo em me perfil. 💻📚</p>
 
 ###
-
-
-
-
 
 <h2 align="left">Sobre Mim</h2>
 
-
 ###
 
-<p align="left">📚 Estudo programação desde 2023, com foco em Desenvolvimento Web e desenvolver minhas habilidades.<br>🎯 Meus objetivos principais atualmente são me especializar na área de Desenvolvimento Web e terminar a minha faculdade.<br>🤦🏼‍♂️ Não sou uma pessoa muito ativa em meu GitHub, mas pretendo voltar a utilizar mais esta rede social.<br>🤖 Ambicioso sobre Inteligência Artificial, sempre buscando saber mais e entender como funcionam.  Aprendendo o básico sobre automações e Low-Code.</p>
+<p align="left">💻 Atuo atuando como Estagiário de TI na empresa Buddemeyer S/A.<br>📚 Estudo programação desde 2023, com foco em Desenvolvimento Web e desenvolver minhas habilidades.<br>🎯 Objetivos: Meus objetivos principais atualmente são me especializar na área de Desenvolvimento Web, e terminar a minha faculdade.<br>🤦🏼‍♂️ Não sou uma pessoa muito ativa em meu GitHub, mas pretendo voltar a utilizar mais esta rede social.<br>🤖 Ambicioso sobre Inteligência Artificial, sempre buscando saber mais e entender como funcionam.  Aprendendo o básico sobre automações e Low-Code.</p>
 
 ###
 
@@ -25,13 +19,21 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40px" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
 </div>
 
 ###
