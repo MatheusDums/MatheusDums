@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Atuo atuando como Estagiário de TI na empresa Buddemeyer S/A.<br>📚 Estudo programação desde 2023, com foco em Desenvolvimento Web e desenvolver minhas habilidades.<br>🎯 Objetivos: Meus objetivos principais atualmente são me especializar na área de Desenvolvimento Web, e terminar a minha faculdade.<br>🤦🏼‍♂️ Não sou uma pessoa muito ativa em meu GitHub, mas pretendo voltar a utilizar mais esta rede social.<br>🤖 Ambicioso sobre Inteligência Artificial, sempre buscando saber mais e entender como funcionam.  Aprendendo o básico sobre automações e Low-Code.</p>
+<p align="left">💻 Atualmente atuando como Estagiário de TI na empresa Buddemeyer S/A.<br>📚 Estudo programação desde 2023, com foco em Desenvolvimento Web e desenvolver minhas habilidades.<br>🎯 Objetivos: Meus objetivos principais atualmente são me especializar na área de Desenvolvimento Web, e terminar a minha faculdade.<br>🤦🏼‍♂️ Não sou uma pessoa muito ativa em meu GitHub, mas pretendo voltar a utilizar mais esta rede social.<br>🤖 Ambicioso sobre Inteligência Artificial, sempre buscando saber mais e entender como funcionam.  Aprendendo o básico sobre automações e Low-Code.</p>
 
 ###
 
