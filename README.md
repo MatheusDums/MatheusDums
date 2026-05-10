@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, me chamo Matheus Kauan Dums, tenho 21 anos e atualmente eu estou estagiando na área de TI na empresa Buddemeyer S/A e cursando Sistemas de Informação pela UDESC (Universidade do Estado de Santa Catarina) e Desenvolvimento Web pela OneBitCode, com foco em Javascript (Fullstack, mas atualmente com foco em Front-End) . É um prazer tê-lo em me perfil. 💻📚</p>
+<p align="left">Olá, me chamo Matheus Kauan Dums, tenho 21 anos e atualmente eu estou atuando como assistente de TI na empresa Buddemeyer S/A e cursando Sistemas de Informação pela UDESC (Universidade do Estado de Santa Catarina) e Desenvolvimento Web focado em NodeJs pela B7WEB. É um prazer tê-lo em me perfil. 💻📚</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Atualmente atuando como Estagiário de TI na empresa Buddemeyer S/A.<br>📚 Estudo programação desde 2023, com foco em Desenvolvimento Web e desenvolver minhas habilidades.<br>🎯 Objetivos: Meus objetivos principais atualmente são me especializar na área de Desenvolvimento Web, e terminar a minha faculdade.<br>🤦🏼‍♂️ Não sou uma pessoa muito ativa em meu GitHub, mas pretendo voltar a utilizar mais esta rede social.<br>🤖 Ambicioso sobre Inteligência Artificial, sempre buscando saber mais e entender como funcionam.  Aprendendo o básico sobre automações e Low-Code.</p>
+<p align="left">💻 Atualmente atuando como Assistente de TI na empresa Buddemeyer S/A.<br>📚 Estudo programação desde 2023, com foco em Desenvolvimento Web e desenvolver minhas habilidades.<br>🎯 Objetivos: Meus objetivos principais atualmente são me especializar na área de Desenvolvimento Web, e terminar a minha faculdade.<br>🤦🏼‍♂️ Não sou uma pessoa muito ativa em meu GitHub, mas pretendo voltar a utilizar mais esta rede social.<br>🤖 Ambicioso sobre Inteligência Artificial, sempre buscando saber mais e entender como funcionam.  Aprendendo o básico sobre automações e Low-Code.</p>
 
 ###
 
@@ -36,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:50px;" alt="php logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="height:50px;" alt="jquery logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height:50px;" alt="nodejs logo" />
 </div>
 
 
